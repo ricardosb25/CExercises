@@ -3,8 +3,8 @@
 
 int main(void)
 {
-    int x = get_int("Digite um numero para começar: ");
-    int y = get_int("Digite um numero para terminar: ");
+    int x = get_int("Choose a number to start: ");
+    int y = get_int("Choose a number to finish: ");
     for(int z = x; z <= y ; z++)
     {
         printf("%i\n",z);
