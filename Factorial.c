@@ -16,9 +16,9 @@ int fatorial(int x){
 
 int main(void){
     int x,resultado;
-    printf("Digite o seu numero: ");
+    printf("Choose a number: ");
     scanf("%d",&x);
     resultado = fatorial(x);
-    printf("O fatorial de %d é: %d",x,resultado);
+    printf("The factorial of %d is: %d",x,resultado);
     return 0;
 }
