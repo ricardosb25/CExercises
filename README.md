@@ -1,2 +1,2 @@
-# ExerciciosEmC
-Repositorio criado para colocar exercicios em C
+#CExercises
+Repository created to put exercises in C
