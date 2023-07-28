@@ -2,6 +2,6 @@
 
 int main(void)
 {
-    string nome = get_string ("Digite seu nome:\n");
-    printf("Bem vindo,%s \n", nome);
+    string nome = get_string ("Type your name:\n");
+    printf("Hello World,%s \n", nome);
 }
